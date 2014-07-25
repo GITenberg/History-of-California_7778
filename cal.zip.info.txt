@@ -1,0 +1,17 @@
+
+TITLE=History of California
+SUBTITLE=
+AUTHOR=Helen Elliott Bandini
+EDITOR=
+COMPILER=
+ILLUSTRATOR=
+COMMENTATOR=
+TRANSLATOR=
+LANGUAGE=English
+CREDIT=David A. Schwan
+NOTIFY=
+
+
+Release Date: March, 2005 [EBook #7778]
+This file was first posted on May 16, 2003
+Last Updated: May 21, 2013

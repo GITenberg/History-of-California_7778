@@ -1,0 +1,33 @@
+
+
+File: C:/ACTIVE/ADD5/test.txt
+
+   --> There are 323 "be"s and 411 "he"s. Calibrating...
+
+What will be the result of this outdoor life cannot yet be told; climate
+    Line 272 column 64 - Query phrase "yet be told" 
+
+through which he reached the great South Sea, but then he still sailed
+    Line 1259 column 64 - Query phrase "then he still" 
+
+with cannon bought from the Russians, he built a high stockade. He
+    Line 3172 column 47 - Query phrase "fort, ..., he built" 
+
+finally be decided in regard to it. Reports kept arriving of parties of
+    Line 3577 column 19 - Query phrase "finally be decided" 
+
+part be made slave territory.
+    Line 4306 column 13 - Query phrase "part be made" 
+
+of his life. In it he said, "The law of nature, physical geography, and
+    Line 4342 column 27 - Query phrase "it he said" 
+
+he not only won an important victory, but a greater result lay in the
+    Line 5260 column 7 - Query phrase " he not" 
+
+of all living things, be destroyed for the lumber they will make. They
+    Line 5660 column 35 - Query phrase " be destroyed" 
+
+carried to the outer world to be revived. Carpenters followed the
+    Line 6553 column 8 - Query phrase "and be carried" 
+

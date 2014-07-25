@@ -1,0 +1,189 @@
+
+
+File: C:/active/add5/test.txt
+
+   --> 52 lines in this file contain '.,'. Not reporting them.
+   --> 0 lines in this file contain unpunctuated endquotes. Not reporting them.
+
+
+Appleton & Co. for permission to insert selections from Sherman's
+    Line 74 column 14 - Extra period?
+
+XVIII. Statistics
+    Line 103 column 17 - No punctuation at para end?
+
+from Cape San Lucas up the coast as far north as 44¼, which was probably
+    Line 140 column 52 - Non-ASCII character 188
+
+from Cape San Lucas up the coast as far north as 44¼, which was probably
+    Line 140 column 50 - Query possible scanno 44
+
+thirteen, dressed in a rabbit-skin shirt, carrying a bow in his hand,
+    Line 474 column 54 - Query possible scanno bow
+
+wrap a new bow he was going to make.
+    Line 648 column 12 - Query possible scanno bow
+
+"I think he is going to make an offering of the new bow to
+    Line 723 column 53 - Query possible scanno bow
+
+a handsome new bow. Sholoc gave a speckled green stone olla from Santa
+    Line 754 column 16 - Query possible scanno bow
+
+could shoot best with bow and arrow, or throw the spear well, stood on
+    Line 977 column 23 - Query possible scanno bow
+
+seemed to be an opening that might lead to a good harbor. At the bow
+    Line 1129 column 66 - Query possible scanno bow
+
+as far north as about 40¼. But this winter voyage was made at a great
+    Line 1328 column 25 - Non-ASCII character 188
+
+"Juan," he said, to his young attendant, on Christmas Eve, "how gladly
+    Line 1336 column 55 - Query possible scanno Eve
+
+perhaps as far as 42¡, but, though he kept as close to the shore as
+    Line 1362 column 21 - Non-ASCII character 161
+
+keeping, to whom I give all honor, praise, and glory,
+    Line 1494 column 53 - No punctuation at para end?
+
+side. He traveled as far north as latitude 42¡ or possibly 43¡, and
+    Line 1516 column 46 - Non-ASCII character 161
+
+17th day of June, 1579, to send us, in latitude 38¡, a convenient fit
+    Line 1521 column 51 - Non-ASCII character 161
+
+north as latitude 42¡, although we have no reason to think that he
+    Line 1585 column 21 - Non-ASCII character 161
+
+Mexico by way of Japan, sighted the coast of California in latitude 37¡
+    Line 1613 column 71 - Non-ASCII character 161
+
+mass was said and the Te Deum chanted. For over one hundred and fifty
+    Line 1711 column 22 - Query word Te - not reporting duplicates
+
+one in 30¡ north latitude which I called Monterey, as I wrote to your
+    Line 1717 column 10 - Non-ASCII character 161
+
+soon sailed northward, and reached a point in about latitude 42¡, which
+    Line 1734 column 64 - Non-ASCII character 161
+
+found the mission of Monterey. he did not believe, as many of the party
+    Line 2011 column 30 - Extra period?
+
+craft bobbed and plunged in the rough water of the bar, darted through
+    Line 2103 column 52 - Query possible scanno bar
+
+called carne seco. After breakfast the workers go in groups to their
+    Line 2402 column 8 - Query possible scanno carne
+
+into the desolate building to kneel alone before the altar where once
+    Line 2509 column 69 - No punctuation at para end?
+
+next the wall were covered with tile roofing, forming a shaded veranda,
+    Line 2599 column 33 - Query possible scanno tile
+
+". . . points of gravest import yielded slowly one by one, And by Love
+    Line 3108 column 8 - Paragraph starts with lower-case
+
+the wall and call upon me in terms of the greatest familiarity, 'Ho,
+    Line 3182 column 64 - Query possible scanno Ho
+
+"The people of the Spanish race on Indian Bar, many of whom are highly
+    Line 4462 column 43 - Query possible scanno Bar
+
+Bar determined to drive away all Californians. They captured several,
+    Line 4469 column 2 - Query possible scanno Bar
+
+magnet struck the bell--"tap, tap, tap." "Done,"--flashed the message to
+    Line 4896 column 40 - Query missing paragraph break?
+
+the Spanish fleet on that Sunday morning (May 1, 1898) in Manila Bay,
+    Line 5257 column 47 - Query standalone 1
+
+to which that of the Atlantic Ocean will be only a fraction." "The
+    Line 5271 column 61 - Query missing paragraph break?
+
+that last day of the cable laying, and by 11 P.M. the President of the
+    Line 5464 column 43 - Query possible scanno 11
+
+How old these trees may be is yet unsettled, but Mr. John Muir, their
+    Line 5637 column 24 - Query he/be error?
+
+scientific farmer on arid lands, where there is an abundance of water
+    Line 6070 column 22 - Query possible scanno arid
+
+Century
+    Line 6645 column 7 - No punctuation at para end?
+
+"The Birds' Christmas Carol," "Timothy's Quest" and others equally
+    Line 6744 column 29 - Query missing paragraph break?
+
+memory of their only son, Mr, and Mrs. Leland Stanford gave one hundred
+    Line 6746 column 29 - Query punctuation after mr?
+
+The state of California lies between the parallels 32¡ and 42¡ north
+    Line 6870 column 54 - Non-ASCII character 161
+
+Cape Cod, Massachusetts. Its northern third lies between 120¡ and 124¡
+    Line 6873 column 61 - Non-ASCII character 161
+
+Tahoe. Its area is 158,297 sq. miles, second only to Texas of all the
+    Line 6881 column 27 - Query word sq - not reporting duplicates
+
+  Alameda         Sp., Shaded promenade
+    Line 6897 column 10 - Query word Sp - not reporting duplicates
+
+  Butte           Fr., Rounded, detached hill
+    Line 6903 column 8 - Query word Fr - not reporting duplicates
+
+  Pedro Fages, Sept. 1O, 1782
+    Line 7024 column 20 - Query digit in 1O
+
+  California became province of the Mexican Empire, April 11, 1822
+    Line 7032 column 59 - Query possible scanno 11
+
+  1880  Republican, 1 vote
+    Line 7109 column 20 - Query standalone 1
+
+  1892, Republican, 1 vote
+    Line 7113 column 20 - Query standalone 1
+
+        Democratic, People's and Silver parties, 1 vote
+    Line 7116 column 49 - Query standalone 1
+
+        Progressive, 11 votes
+    Line 7121 column 21 - Query possible scanno 11
+
+  Geronimo Boscano--"Chinigchinich," "History of Mission Indians."
+    Line 7139 column 36 - Query missing paragraph break?
+
+  Lummis--" Spanish Pioneers."
+    Line 7154 column 11 - Wrongspaced quotes?
+
+   California, name, origin of, 11, 12
+    Line 7228 column 32 - Query possible scanno 11
+
+   Carne seco, 101
+    Line 7238 column 2 - Query possible scanno Carne
+
+   Indian Bar, 184
+    Line 7368 column 11 - Query possible scanno Bar
+
+   Macana, 22, 27, 28, 31, 32, 37, 38, 41, 42, 44, 46
+    Line 7428 column 47 - Query possible scanno 44
+
+   Oregon, voyage of the, 216, 217
+    Line 7494 column 25 - Query punctuation after the?
+
+   Sherman, Wm. T., 149, 151, 164
+    Line 7671 column 11 - Query word Wm - not reporting duplicates
+
+Note: Queried word te was duplicated 1 times
+
+Note: Queried word sq was duplicated 1 times
+
+Note: Queried word sp was duplicated 32 times
+
+Note: Queried word fr was duplicated 1 times
